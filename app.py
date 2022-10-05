@@ -1,2 +1,5 @@
 print("Hello")
 print("Hello again..")
+print("Good morning")
+print("Good afternoon")
+print("Good evening")
